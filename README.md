@@ -16,18 +16,18 @@ https://github.com/PotnuruKumarSunil/nirman-vertech
 https://drive.google.com/file/d/1WdYtr2TWB5LbIfB8nUmYsSoEiFaBA3qJ/view?usp=sharing
 
 ## Tech Stack
-KOTLIN
-FIREBASE
-FIGMA
-ML (FUTURE SCOPE)
+KOTLIN,
+FIREBASE,
+FIGMA,
+ML (FUTURE SCOPE),
 REACT (FUTURE SCOPE)
 
 ## Team Details
 Team-Vertech from Odisha University of technology and Research
 
 ## Team Members
-Navneet Kumar Gupta
-Madhav Sharma
-Pratyush Giri
+Navneet Kumar Gupta,
+Madhav Sharma,
+Pratyush Giri,
 Potnuru Kumar Sunil
 
